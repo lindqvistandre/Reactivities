@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VdcQz4acGlaGU6wjavLroBgQDm5s5J1p+IfqAXWL4u/vifItB9mccbOawFACogRX9vQR4IqXqp4gUmuosH45dA==",
+  "dgSpecHash": "nskHi0QdYFj6Gm+tIdM4mAkoHS6MXCYepcCp6ioRu0kYOGqXaXvhVQ7+KRetxjck2/cklJEPVGqHuaXWHfsTSw==",
   "success": true,
-  "projectFilePath": "D:\\Udemy\\Reactivities\\API\\API.csproj",
+  "projectFilePath": "D:\\Udemy\\Reactivities\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\blejs\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\blejs\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.0\\microsoft.data.sqlite.core.6.0.0.nupkg.sha512",
